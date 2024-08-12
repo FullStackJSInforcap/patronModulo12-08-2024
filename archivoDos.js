@@ -1,0 +1,3 @@
+funcionAutoEjecutable.imprimirConsola();
+funcionAutoEjecutable.imprimirDOM();
+
